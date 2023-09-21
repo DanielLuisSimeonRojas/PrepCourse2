@@ -73,7 +73,7 @@ function esVocal(letra) {
       case "u": return "Es vocal";
       default: return "Dato incorrecto";
    }
-   if(letra.length > 1) return "Dato incorrecto";
+   
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
